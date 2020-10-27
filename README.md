@@ -1,7 +1,5 @@
 ### Hi there , I'm Pradeep Pant 👋
 
-**pradpant/pradpant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Co-Founder - Aminotes
 - 🔭 I’m currently working on "The Subjewala Application"
 - 🌱 I’m currently learning Flutter and middleware.
