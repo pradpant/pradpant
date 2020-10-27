@@ -27,8 +27,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradpant)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="pradeep's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pradpant&show_icons=true&hide_border=true" />
 
 </details>
 
