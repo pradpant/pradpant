@@ -2,7 +2,7 @@
 
 **pradpant/pradpant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- 👋 Co-Founder - Aminotes
 - 🔭 I’m currently working on "The Subjewala Application"
 - 🌱 I’m currently learning Flutter and middleware.
 - 🤔 I’m looking for help with "The Subjewala Application"
@@ -26,14 +26,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
- 
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="pradpant's GitHub Stats" src="https://github-readme-stats.pradpant.vercel.app/api?username=pradpant&show_icons=true&hide_border=true" />
+[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradpant)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
