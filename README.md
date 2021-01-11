@@ -2,7 +2,7 @@
 
 - 👋 Co-Founder - Aminotes
 - 🔭 I’m currently working on "The Subjewala Application"
-- 🌱 I’m currently learning Flutter and middleware.
+- 🌱 I’m currently learning Middleware & Integration.
 - 🤔 I’m looking for help with "The Subjewala Application"
 - 🥅 2020 Goals: Develop more skills
 - ⚡ Fun fact: I'm also cryptocurrency Futures Trader doing Techinical analysis and a Potter Head "I'm the Seeker in search of Snitch".
