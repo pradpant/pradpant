@@ -1,11 +1,10 @@
-### Hi there , I'm Pradeep Pant 👋
+### Hi there, I'm Pradeep Pant 👋
 
 - 👋 Co-Founder - Aminotes
-- 🔭 I’m currently working on "The Subjewala Application"
-- 🌱 I’m currently learning Middleware & Integration.
-- 🤔 I’m looking for help with "The Subjewala Application"
-- 🥅 2020 Goals: Develop more skills
-- ⚡ Fun fact: I'm also cryptocurrency Futures Trader doing Techinical analysis and a Potter Head "I'm the Seeker in search of Snitch".
+- 🔭 I’m currently working on "The RideMySide Application"
+- 🌱 I’m currently learning Middleware & Integration and .Net Open Source.
+- 🥅 2024 Goals: Finish my ongoing porjects 
+- ⚡ Fun fact: I'm also a cryptocurrency Futures Trader doing Technical analysis and a Potter Head "I'm the Seeker in Search of Snitch".
 
 ### Connect with me:
 
