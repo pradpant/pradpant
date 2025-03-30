@@ -1,10 +1,10 @@
 ### Hi there, I'm Pradeep Pant 👋
 
 - 👋 Co-Founder - Aminotes
-- 🔭 I’m currently working on "The RideMySide Application"
+- 🔭 I’m currently working on "Owes Engine"
 - 🌱 I’m currently learning Middleware & Integration and .Net Open Source.
-- 🥅 2024 Goals: Finish my ongoing porjects 
-- ⚡ Fun fact: I'm also a cryptocurrency Futures Trader doing Technical analysis and a Potter Head "I'm the Seeker in Search of Snitch".
+- 🥅 2025 Goals: Finish my ongoing porjects 
+- ⚡ Fun fact: I'm also a cryptocurrency and Futures Trader doing Technical analysis and a Potter Head. "I'm the Seeker in Search of Snitch".
 
 ### Connect with me:
 
